@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#todo-list{
+    height: 100vh;
+    background-image: linear-gradient(red,rgb(80, 80, 80));
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    padding-top: 20px;
+    margin: 0;
+    text-decoration: line-through;
+}
+form{
+    margin-top: 30px;
+    text-align: center;
+}
+.todo{
+    margin-top: 20px;
+    text-align: center;
+}
+.check-b{
+    width: 30px;
+}
+.todo-text{
+    font-size: 40px;
+    text-align: center;
+    width: auto;
+}
+input{
+    font-size: x-large;
+    background-color: transparent;
+    border: none;
+    border-bottom: solid;
+    border-radius: 10px;
+}
+button{
+    font-size: x-large;
+    background-color: transparent;
+    margin-left: 10px;
+    border: none;
+    border-bottom: solid;
+    border-radius: 10px;
+}
